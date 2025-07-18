@@ -1,0 +1,4 @@
+.env
+node_modules/
+food-fridge-8be96-firebase-adminsdk-fbsvc-176099df5b.json
+*firebase.js
